@@ -1,2 +1,3 @@
-This project has been moved here:
-[mdbootstrap.com/docs/standard/](mdbootstrap.com/docs/standard/)
+# Docs for version 4.1.3
+
+[Click here](https://danto7.github.io/bootstrap-material-design/)
